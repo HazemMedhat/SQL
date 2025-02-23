@@ -1,2 +1,2 @@
 # SQL
-Hacker Rank Prepare Qusestions
+Solved Problems from Hackerrank and Leetcode Sites
